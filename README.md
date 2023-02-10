@@ -1,3 +1,5 @@
 # Problem-Solving
-Write a program to convert an infix expression to a postfix expression. The expression will contain the following characters [ 0-9 , + , - , * , / , ( , ) ]. 
-Evaluate it using stack. All the numbers are single digit numbers in the input so you don’t have to worry about multi digit numbers
+A repository containing my solutions to various Data Structure and Algorithm (DSA) problems. The solutions are implemented in C++.
+
+Table of Contents
+Deque
