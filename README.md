@@ -3,3 +3,4 @@ A repository containing my solutions to various Data Structure and Algorithm (DS
 
 Table of Contents
 - Deque
+- Stack
